@@ -1,0 +1,58 @@
+{
+  "id": "3456515",
+  "name": "WeGame_four",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "710364",
+      "name": "04转换",
+      "font_class": "04zhuanhuan",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3205015",
+      "name": "五角星",
+      "font_class": "wujiaoxing-",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "4933193",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "5387595",
+      "name": "箭头_右下",
+      "font_class": "jiantou_youxia",
+      "unicode": "eb0c",
+      "unicode_decimal": 60172
+    },
+    {
+      "icon_id": "7596891",
+      "name": "24gl-thumbsUp2",
+      "font_class": "24gl-thumbsUp2",
+      "unicode": "eb32",
+      "unicode_decimal": 60210
+    },
+    {
+      "icon_id": "11372639",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "14773879",
+      "name": "闪电",
+      "font_class": "shandian",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    }
+  ]
+}

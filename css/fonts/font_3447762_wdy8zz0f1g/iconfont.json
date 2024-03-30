@@ -1,0 +1,44 @@
+{
+  "id": "3447762",
+  "name": "WeGame-carousel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14732",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e100",
+      "unicode_decimal": 57600
+    },
+    {
+      "icon_id": "383686",
+      "name": "实心",
+      "font_class": "shixin",
+      "unicode": "e135",
+      "unicode_decimal": 57653
+    },
+    {
+      "icon_id": "397898",
+      "name": "移动端，手机端",
+      "font_class": "shouji",
+      "unicode": "e11a",
+      "unicode_decimal": 57626
+    },
+    {
+      "icon_id": "2239102",
+      "name": "转发",
+      "font_class": "zhuanfa",
+      "unicode": "e128",
+      "unicode_decimal": 57640
+    },
+    {
+      "icon_id": "7596588",
+      "name": "24gf-ellipsisVertical",
+      "font_class": "24gf-ellipsisVertical",
+      "unicode": "eb10",
+      "unicode_decimal": 60176
+    }
+  ]
+}

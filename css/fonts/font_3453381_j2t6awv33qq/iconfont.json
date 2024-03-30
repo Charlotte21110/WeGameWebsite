@@ -1,0 +1,23 @@
+{
+  "id": "3453381",
+  "name": "weGame-three",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8820134",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e2c4",
+      "unicode_decimal": 58052
+    },
+    {
+      "icon_id": "17977685",
+      "name": "icon-日历",
+      "font_class": "icon-rili",
+      "unicode": "e282",
+      "unicode_decimal": 57986
+    }
+  ]
+}

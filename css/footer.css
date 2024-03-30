@@ -1,0 +1,115 @@
+footer {
+    position: relative;
+    margin-top: 50px;
+    padding-top: 17px;
+    height: 352px;
+    background-color: #1b1b1b;
+}
+.service {
+    height: 144px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgba(236, 227, 227, 0.5) */
+}
+.service_left {
+    display: inherit;
+    /* background-color: rgba(200, 200, 200, 0.4); */
+}
+.service_left_ul {
+    list-style: none;
+    margin-right: 65px;
+}
+.service_left_ul :hover{
+    color: white!important;
+}
+.service_li_else :hover {
+    color: white!important;
+}
+.service_li_first {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+}
+.service_li_else {
+    margin-top: 12px;
+    color: #a4a4a4;
+    font-size: 15px;
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
+.service_li_else div {
+    float: left;
+    width: 100px;
+    height: 34px;
+    font-size: 14px;
+}
+.wechat {
+    position: relative;
+}
+.footer_stick {
+    position: absolute;
+    top: -95px;
+    left: 295px;
+    transition: all 0.6s ease;
+    opacity: 0;
+}
+.footer_box {
+    position: absolute;
+    top: 127px;
+    left: 0px;
+    width: 306px;
+    height: 184px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.footer_box img{
+    position: absolute;
+    top:1px;
+    left: 8px;
+}
+/* 字体图标的添加 */
+.win::before{
+    content: "\e882";
+    font-family: "iconfont"!important;
+    color: #a4a4a4;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.mac::before{
+    content: "\e62c";
+    font-family: "iconfont"!important;
+    color: #a4a4a4;
+    font-size: 17px;
+    margin-right: 5px;
+}
+.wechat::before{
+    content: "\e62e";
+    font-family: "iconfont"!important;
+    color: #a4a4a4;
+    font-size: 22px;
+    margin-right: 5px;
+}
+.weibo::before{
+    content: "\e600";
+    font-family: "iconfont"!important;
+    color: #a4a4a4;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.bilibili::before{
+    content: "\e66b";
+    font-family: "iconfont"!important;
+    color: #a4a4a4;
+    font-size: 22px;
+    margin-right: 5px;
+}
+
+.footer_write {
+    margin-top: 30px;
+    height: 100px;
+}
+.footer_write p {
+    font-size: 14px;
+    color: #a4a4a4;
+}
